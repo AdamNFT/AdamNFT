@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AdamNFT
-- 👀 I’m interested in gaming, play to earn and crypto 
+- 👀 I’m interested in NFT, Crypto and Gaming  
 - 🌱 I’m currently learning java and python
 - 💞️ I’m looking to collaborate on build a game on blockchain
-- 📫 How to reach me on Instagrame Tweeter and Medium platforme 
+- 📫 How to reach me on Tweeter, Instagrame, and Medium platforme 
 
 <!---
 AdamNFT/AdamNFT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
